@@ -32,7 +32,7 @@ public interface AdsTest {
           .setPermissionBase(PERMISSION_BASE).get();
 
     String LOGIN = "frnormal1";
-    String PASSWORD = "adspwd*17";
+    String PASSWORD = "adspwd*18";
 
     int USER_SECURITY_LEVEL = 1;
     int SERVICE_SECURITY_LEVEL = 0;
