@@ -4,8 +4,8 @@ package net.codjo.ads;
  */
 public interface AdsTest {
 
-    String LDAP_URL = "ldap://AFYTD201.tagi2-d.net:40389";
-    String SSL_URL = "ldap://AFYTD201.tagi2-d.net:40636";
+    String LDAP_URL = "ldap://adsdev1.agieurope-intra.eu:40389";
+    String SSL_URL = "ldap://adsdev1.agieurope-intra.eu:40636";
 
     String ADSBV_JNLP_URL = "http://afxia012.itd.intradit.net:81/ADSBV_axis2/adsbvgui.jnlp";
 
